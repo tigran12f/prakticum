@@ -1,0 +1,399 @@
+body {
+    width: 1440px;
+height: 2303px;
+gap: 0px;
+opacity: 0px;
+background: #F9F9F9;
+}
+
+.menu {
+    width: 1251px;
+height: 58px;
+top: 45px;
+left: 93px;
+gap: 0px;
+opacity: 0px;
+
+display: flex;
+justify-content: space-between;
+position: absolute;
+}
+
+.logo {
+    width: 53px;
+height: 53px;
+top: 48px;
+left: 93px;
+gap: 0px;
+opacity: 0px;
+font-size: 50px;
+}
+
+.nav {
+    width:446.46px;
+height: 27px;
+top: 61px;
+left: 202.06px;
+gap: 53.49px;
+opacity: 0px;
+display: flex;
+margin-top: 18px;
+}
+
+.nav1 {
+    font-family: Inter;
+font-size: 17.83px;
+font-weight: 500;
+line-height: 26.74px;
+text-align: left;
+}
+
+.poick1 {
+    width: 348.45px;
+    height: 47px;
+    top: 46px;
+    left: 766px;
+    gap: 0px;
+    opacity: 0px;    
+font-family: Poppins;
+font-size: 15.71px;
+font-weight: 500;
+line-height: 18.46px;
+letter-spacing: -0.02em;
+align-items: center;
+background: #9D9D9D;
+color: #C2C3CB;
+border-radius: 20px;
+}
+
+.but {
+    width: 199.52px;
+height: 57.34px;
+top: 45px;
+left: 1144.48px;
+gap: 8.09px;
+opacity: 0px;
+background: #141416;
+border-radius: 20px;
+}
+
+.but1 {
+    width: 151px;
+height: 25px;
+gap: 0px;
+opacity: 0px;
+font-family: Inter;
+font-size: 16.17px;
+font-weight: 600;
+line-height: 24.26px;
+text-align: left;
+color: #FFFFFF;
+}
+
+h1 {
+    width: 558px;
+height: 30px;
+top: 258px;
+left: 441px;
+gap: 0px;
+opacity: 0px;
+font-family: Poppins;
+font-size: 45px;
+font-weight: 600;
+line-height: 30px;
+text-align: left;
+color: #141416;
+position: absolute;
+}
+
+.prof1 {
+    width: 1232.05px;
+height: 538.71px;
+top: 417.67px;
+left: 104px;
+gap: 0px;
+border-radius: 25px ;
+opacity: 0px;
+position: absolute;
+display: flex;
+justify-content: space-between;
+}
+
+.pro1 {
+    width: 370.68px;
+height: 537.74px;
+top: 417.67px;
+left: 104px;
+gap: 0px;
+border-radius: 25px ;
+opacity: 0px;
+box-shadow: 30px 15px 80px 0px #BFBFBF99;
+background: #F2F2F2;
+}
+
+.fotopro1 {
+width: 370px;
+height: 204.82px;
+right: -14.83px;
+top: -59.51px;
+background: url(img/pro1.jpeg);
+background-position:40% 60%;
+border-radius: 20px 20px 0px 0px;
+}
+
+.foto2pro1 {
+width: 110.94px;
+height: 110.94px;
+right: 130.26px;
+top: 149.84px;
+background: url(img/pro1.jpeg);
+border: 6.91944px solid #FFFFFF;
+border-radius: 50%;
+margin-left: 250px;
+position: relative;
+margin-top: -220px;
+background-position:40% 60%;
+background-size:99%;
+}
+
+.ima1 {
+    width: 137.36px;
+height: 34px;
+top: 274.8px;
+left: 125.54px;
+position: absolute;
+display: flex;
+align-items: center;
+}
+
+.ima11 {
+    width: 98px;
+height: 34px;
+font-family: Poppins;
+font-size: 23.72px;
+font-weight: 600;
+line-height: 33.61px;
+text-align: left;
+color: #000000;
+}
+
+.galka {
+    width: 23.5px;
+height: 23.5px;
+top: 300.73px;
+left: 239.4px;
+background: #007AFF;
+border-radius: 50%;
+color: white;
+text-align: center;
+}
+
+.q1 {
+    width: 316.48px;
+height:42px;
+top: 326.2px;
+left: 27.52px;
+gap: 37.56px;
+display: flex;
+position: absolute;
+}
+
+.q11 {
+    width: Hug (39px)px;
+    height: Hug (42px)px;
+}
+
+.q12 {
+    width: Hug (44px)px;
+height: Hug (42px)px;
+}
+
+.q13 {
+    width: Hug (66px)px;
+height: Hug (42px)px;
+}
+
+.q14 {
+    width: Hug (54.79px)px;
+height: Hug (42px)px;
+}
+
+.chislo {
+    font-family: Poppins;
+font-size: 17.79px;
+font-weight: 500;
+line-height: 25.7px;
+text-align: center;
+color: #141416;
+}
+
+.chislo1 {
+    font-family: Poppins;
+font-size: 12.85px;
+font-weight: 400;
+line-height: 15.82px;
+text-align: center;
+color: #828282;
+}
+
+.minifoto1 {
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+width: Hug (318.29px)px;
+height: Hug (99.31px)px;
+top: 421.33px;
+left: 25.7px;
+gap: 9.93px;
+opacity: 0px;
+position: absolute;
+}
+
+.mini1 {
+width: 99.31px;
+height: 99.31px;
+background: url(img/minifoto1.jpeg);
+border-radius: 9.93118px;
+}
+
+.mini11 {
+width: 99.31px;
+height: 99.31px;
+background: url(img/minifoto2.jpeg);
+border-radius: 9.93118px;
+background-position:40% 60%;
+}
+
+.mini12 {
+    width: 99.81px;
+height: 99.31px;
+gap: 0px;
+border-radius: 9.93px;
+opacity: 0px;
+background: url(img/minifoto3.jpeg);
+background-position:60% 40%;
+}
+
+.minchislo {
+    width: 35px;
+height: 22px;
+top:18.73px;
+left: 250.76px;
+gap: 0px;
+opacity: 0px;
+font-family: Urbanist;
+font-size: 19.86px;
+font-weight: 700;
+line-height: 21.85px;
+letter-spacing: 0.01em;
+text-align: center;
+position: absolute;
+}
+
+.pro2 {
+width: 370.68px;
+height: 537.74px;
+left: 534.68px;
+top: 418.64px;
+background: #F2F2F2;
+box-shadow: 30px 15px 80px rgba(191, 191, 191, 0.6);
+border-radius: 25px;
+box-shadow: 30px 15px 80px 0px #BFBFBF99;
+}
+
+.fotopro2 {
+    width: 370px;
+height: 204.82px;
+right: -14.83px;
+top: -59.51px;
+background: url(img/minifoto2.jpeg);
+background-position:40% 60%;
+border-radius: 20px 20px 0px 0px;
+background-size:100%;
+}
+
+.foto2pro2 {
+    width: 110.94px;
+height: 110.94px;
+right: 130.26px;
+top: 149.84px;
+background: url(img/minifoto2.jpeg);
+border: 6.91944px solid #FFFFFF;
+border-radius: 50%;
+margin-left: 250px;
+position: relative;
+margin-top: -220px;
+background-position:40% 60%;
+background-size:99%;
+}
+
+.ima2 {
+    width: 137.36px;
+height: 34px;
+top: 174.8px;
+left: 125.54px;
+display: flex;
+align-items: center;
+position: relative;
+}
+
+.ima21 {
+    width: 108px;
+height: 34px;
+font-family: Poppins;
+font-size: 23.72px;
+font-weight: 600;
+line-height: 33.61px;
+text-align: left;
+color: #000000;
+}
+
+.q2 {
+    width: 316.48px;
+height:42px;
+top: 196.2px;
+left: 27.52px;
+gap: 37.56px;
+display: flex;
+position: relative;
+}
+
+.minifoto2 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    width: Hug (318.29px)px;
+    height: Hug (99.31px)px;
+    top: 241.33px;
+    left: 25.7px;
+    gap: 9.93px;
+    opacity: 0px;
+    position: relative;
+    }
+    
+    .mini2 {
+    width: 99.31px;
+    height: 99.31px;
+    background: url(img/minifoto4.jpeg);
+    border-radius: 9.93118px;
+    background-position:50% 50%;
+    }
+    
+    .mini21 {
+    width: 99.31px;
+    height: 99.31px;
+    background: url(img/pro1.jpeg);
+    border-radius: 9.93118px;
+    background-position:40% 60%;
+    background-size:99%;
+    }
+    
+    .mini22 {
+        width: 99.81px;
+    height: 99.31px;
+    gap: 0px;
+    border-radius: 9.93px;
+    opacity: 0px;
+    background: url(img/minifoto5.jpeg);
+    background-position:60% 40%;
+    }
