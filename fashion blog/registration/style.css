@@ -1,0 +1,183 @@
+#container {
+    width: 1440px;
+    height: 2171px;   
+}
+
+#menu {
+    width: 1251px;
+    height: 58px;
+    margin-top: 45px;
+    margin-left: 93px;
+    display: flex; 
+}
+
+#logo {
+    width: 53px;
+    height: 53px;
+    text-align: center;
+    align-content: center;
+}
+
+#nav {
+    width: 445.46px;
+    height: 27px;
+    gap: 53.49px;
+    display: flex;
+    margin-left: 57.06px;
+}
+
+#nav p {
+    text-transform: uppercase;
+    font-family: Inter;
+    font-size: 17.83px;
+    font-weight: 500;
+    line-height: 26.74px;
+    text-align: left;
+    justify-content: center;
+}
+
+#search {
+    width: 348.45px;
+    height: 57px;
+    margin-left: 117.49px;
+    display: flex;
+}
+
+.ser {
+    background: #EDEDED;
+    width: 348.45px;
+    height: 57px;
+    border-radius: 10px;
+    border-color: #ededed00;
+    font-family: Poppins;
+    font-size: 15.71px;
+    font-weight: 500;
+    line-height: 18.46px;
+    letter-spacing: -0.02em;
+    text-align: left;
+}
+
+::-webkit-input-placeholder {
+    color:#C2C3CB;
+}
+
+#connect {
+    width: 199.52px;
+    height: 57.34px;
+    margin-left: 30.03px;
+    border-radius: 10px;
+    border-color: #ededed00;
+    background-color: black;
+}
+
+#connect p {
+    font-family: Inter;
+    font-size: 16.17px;
+    font-weight: 600;
+    line-height: 24.26px;
+    text-align: left;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+#create {
+    width: 366px;
+    height: 30px;
+    margin-top: 258px;
+    margin-left: 537px;
+    font-family: Poppins;
+    font-size: 45px;
+    font-weight: 600;
+    line-height: 30px;
+}
+
+#InPuts {
+    width: 702.1px;
+    height: 999px;
+    margin-top: 153px;
+    margin-left: 96px;
+}
+
+#layout {
+    width: 702.1px;
+    height: 107.43px;
+    top: 441px;
+    left: 96px; 
+}
+
+.serch{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24.9px;
+    text-align: left;    
+}
+
+#name {
+    width: 702.1px;
+    height: 62.43px;
+    top: 486px;
+    left: 96px;
+}
+
+.item_1 {
+ width: 702.1px;
+ height: 62.43px;
+ font-size: 13.45px;
+}
+
+#Description {
+    width: 702px;
+    height: 210px;
+    margin-top: 35px;
+}
+
+.item_2 {
+    width: 702.1px;
+    height: 165px;
+    font-size: 13.45px;
+}
+
+#Royal_size {
+    width: 312.95px;
+    height: 108.39px;
+    border-radius: 12.33px;
+    margin-top: 35px; 
+    display: flex;
+    flex-wrap: nowrap;  
+}
+
+#royal {
+    width: 146.95px;
+    height: 108.39px;
+    top: 828.43px;
+    left: 96px;
+    padding: 0px;
+    gap: 0px;
+    border-radius: 12.33px;
+}
+
+.item_3 {
+    width: 146.95px;
+    height: 63.39px;
+    border-radius: 12.33px;
+    text-align: center;
+    font-size: 13.45px;
+}
+
+#size {
+    width: 131px;
+    height: 108px;
+    top: 828.43px;
+    left: 277.95px;
+    gap: 0px;
+    border-radius: 12.33px;
+    margin-left: 35px;
+}
+
+.item_4 {
+ width: 131px;
+ height: 63px;
+ text-align: center;
+ font-size: 13.45px;
+}
